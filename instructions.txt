@@ -1,0 +1,7 @@
+1. create a folder temp in c
+2. create a folder "serverfolder" in c:\temp.
+3. place files in serverfolder
+4. execute server class.(picture 1)
+5. open the browser and enter "http://localhost:8000/get?file=<filen-name>".(picture 2)
+6. the server can handle "pdf","txt","zip","rar","html","gif","jpeg".
+7. if file is not present in the folder you will get 404 error.(picture 3)
